@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Repo\CloudPointRegisrationBaseMarker\build\CMakeFiles\1ce83b5d2168fb03dca5a275af166ce8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0C1BFD07-FFCC-3D76-8F18-FACD16BB2662}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
